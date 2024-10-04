@@ -5,3 +5,4 @@ In this tutorial, you will learn to create the flappy bird game with html, css, 
 Throughout the tutorial, you will learn how to create the game loop, add images onto the canvas, add click handlers to make the flappy bird jump, randomly generate pipes and move them across the screen, detect collisions between the flappy bird and each pipe, and add a running score. 
 
 
+![image](https://github.com/user-attachments/assets/e1617f60-4f35-42b2-a343-cdfbb826446b)
